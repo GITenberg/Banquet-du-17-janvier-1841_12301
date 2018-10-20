@@ -23,5 +23,7 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Banquet du 17 janvier 1841
 url: http://www.gutenberg.org/ebooks/12301
